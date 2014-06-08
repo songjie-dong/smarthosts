@@ -1,0 +1,4 @@
+smarthosts
+==========
+
+my personal hosts
